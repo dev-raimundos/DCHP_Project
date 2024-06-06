@@ -1,0 +1,4 @@
+/home/raimundos/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/raimundos/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/raimundos/CLionProjects/DCHP_Project -B /home/raimundos/CLionProjects/DCHP_Project/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/raimundos/CLionProjects/DCHP_Project/cmake-build-debug
